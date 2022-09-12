@@ -36,3 +36,22 @@ C:\_CleanArchitecture_AspNet\__curso\4_Camada_Domain\CleanArchMvc_Domain_Tests\C
 C:\_CleanArchitecture_AspNet\__curso\4_Camada_Domain\CleanArchMvc_Domain_Tests\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
 C:\_CleanArchitecture_AspNet\__curso\4_Camada_Domain\CleanArchMvc_Domain_Tests\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
 C:\_CleanArchitecture_AspNet\__curso\4_Camada_Domain\CleanArchMvc_Domain_Tests\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.deps.json
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Application.dll
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.Data.dll
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Application.pdb
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfo.cs
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.CopyComplete
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
