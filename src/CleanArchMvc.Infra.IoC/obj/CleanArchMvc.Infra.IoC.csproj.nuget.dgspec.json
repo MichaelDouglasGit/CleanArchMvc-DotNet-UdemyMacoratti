@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {}
+    "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
+    "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
         "projectName": "CleanArchMvc.Application",
-        "projectPath": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "projectPath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
         "packagesPath": "C:\\Users\\Michael Douglas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Application\\obj\\",
+        "outputPath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-                "projectPath": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               }
             }
           }
@@ -62,18 +62,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+    "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "projectName": "CleanArchMvc.Domain",
-        "projectPath": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectPath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "packagesPath": "C:\\Users\\Michael Douglas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -120,18 +120,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
+    "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
         "projectName": "CleanArchMvc.Infra.Data",
-        "projectPath": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\Michael Douglas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -152,8 +152,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-                "projectPath": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               }
             }
           }
@@ -167,6 +167,24 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -182,18 +200,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
+    "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
         "projectName": "CleanArchMvc.Infra.IoC",
-        "projectPath": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+        "projectPath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
         "packagesPath": "C:\\Users\\Michael Douglas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\obj\\",
+        "outputPath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -214,14 +232,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
-                "projectPath": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj"
+              "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
+                "projectPath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj"
               },
-              "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-                "projectPath": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               },
-              "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj"
+              "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj"
               }
             }
           }
@@ -250,7 +268,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

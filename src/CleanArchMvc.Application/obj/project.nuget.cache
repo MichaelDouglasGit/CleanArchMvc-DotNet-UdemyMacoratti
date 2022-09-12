@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "54avWtAFZ/E/+/4jyDHJjY5wko9+wclkMS9c4hZhXVx4adISv4OmRwaqUSngymHcVqNucsZVJnv9QGOmTNCjVA==",
+  "dgSpecHash": "duDqwwKogPBDRN9abGkE/04kxDe4btxk8Iu6BzRZQopmofxF9ki8zDwYoFtsPCWXIb6KcsXngQ2Efqmz660cMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Michael Douglas\\Desktop\\CleanArchMvc_Domain_Tests\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "projectFilePath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

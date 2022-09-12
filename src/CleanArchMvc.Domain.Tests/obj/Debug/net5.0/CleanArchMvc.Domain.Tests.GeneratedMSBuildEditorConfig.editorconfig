@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CleanArchMvc.Domain.Tests
-build_property.ProjectDir = C:\Users\Michael Douglas\Desktop\CleanArchMvc_Domain_Tests\CleanArchMvc_Domain_Tests\CleanArchMvc\CleanArchMvc.Domain.Tests\
+build_property.ProjectDir = C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\
