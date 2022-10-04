@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "duDqwwKogPBDRN9abGkE/04kxDe4btxk8Iu6BzRZQopmofxF9ki8zDwYoFtsPCWXIb6KcsXngQ2Efqmz660cMA==",
+  "dgSpecHash": "g6a6VyU2IJsvM2hDRrbhTgttYDXgizzPGvFBSBpzPDtF1wbPj5xOxu4oCplmRGpgmfRRYZZsXbQhk3FJKA9z0w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael Douglas\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Michael Douglas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
