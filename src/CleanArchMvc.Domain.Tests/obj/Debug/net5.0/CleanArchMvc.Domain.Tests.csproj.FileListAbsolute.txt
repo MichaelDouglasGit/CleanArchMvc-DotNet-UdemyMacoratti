@@ -210,8 +210,8 @@ C:\_CleanArchitecture_AspNet\__curso\4_Camada_Domain\CleanArchMvc_Domain_Tests\C
 C:\_CleanArchitecture_AspNet\__curso\4_Camada_Domain\CleanArchMvc_Domain_Tests\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\ref\CleanArchMvc.Domain.Tests.dll
 C:\_CleanArchitecture_AspNet\__curso\4_Camada_Domain\CleanArchMvc_Domain_Tests\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\CleanArchMvc.Domain.Tests.pdb
 C:\_CleanArchitecture_AspNet\__curso\4_Camada_Domain\CleanArchMvc_Domain_Tests\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\CleanArchMvc.Domain.Tests.genruntimeconfig.cache
-C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\testhost.exe
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\testhost.dll
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\testhost.exe
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
@@ -219,7 +219,6 @@ C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\Cl
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\CleanArchMvc.Domain.Tests.runtimeconfig.json
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\CleanArchMvc.Domain.Tests.runtimeconfig.dev.json
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\CleanArchMvc.Domain.Tests.dll
-C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\ref\CleanArchMvc.Domain.Tests.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\CleanArchMvc.Domain.Tests.pdb
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\FluentAssertions.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
@@ -316,3 +315,4 @@ C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\Cl
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\ref\CleanArchMvc.Domain.Tests.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\CleanArchMvc.Domain.Tests.pdb
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\CleanArchMvc.Domain.Tests.genruntimeconfig.cache
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\refint\CleanArchMvc.Domain.Tests.dll

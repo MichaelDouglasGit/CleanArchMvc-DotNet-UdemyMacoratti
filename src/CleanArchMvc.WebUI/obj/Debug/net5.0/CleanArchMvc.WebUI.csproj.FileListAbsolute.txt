@@ -736,7 +736,6 @@ C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\Cl
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.runtimeconfig.json
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.runtimeconfig.dev.json
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.dll
-C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\ref\CleanArchMvc.WebUI.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.pdb
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
@@ -1021,6 +1020,7 @@ C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\Cl
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\WindowsBase.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.Views.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.Views.pdb
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\Humanizer.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
@@ -1030,6 +1030,7 @@ C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\Cl
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
@@ -1121,3 +1122,5 @@ C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\Cl
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\obj\Debug\net5.0\ref\CleanArchMvc.WebUI.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.pdb
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.genruntimeconfig.cache
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\obj\Debug\net5.0\refint\CleanArchMvc.WebUI.dll
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll

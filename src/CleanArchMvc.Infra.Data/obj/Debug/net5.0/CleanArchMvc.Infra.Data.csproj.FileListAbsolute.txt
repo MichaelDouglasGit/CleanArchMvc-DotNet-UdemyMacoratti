@@ -32,7 +32,6 @@ C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\Cl
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.json
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.dev.json
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.dll
-C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.Data\bin\Debug\net5.0\ref\CleanArchMvc.Infra.Data.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Domain.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
@@ -46,3 +45,4 @@ C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\Cl
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.Data\obj\Debug\net5.0\ref\CleanArchMvc.Infra.Data.dll
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
 C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache
+C:\Users\Michael Douglas\Documents\Git\CleanArchMvc-DotNet-UdemyMacoratti\src\CleanArchMvc.Infra.Data\obj\Debug\net5.0\refint\CleanArchMvc.Infra.Data.dll
