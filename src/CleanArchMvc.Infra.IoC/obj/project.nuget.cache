@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tIKL7bK0BOGR6ssNeItHd1tvjyPS3PYLbcHwvKnPyxusPMKnu04mUWIC+xC958EfH9mjC4Q9Essi3UmCTaUGzw==",
+  "dgSpecHash": "AUpuZmCHafDVJ+BsU1gOHVLDUUiJMdeVAZKU48kBGj5Z8NowEPLgBjrYhUaEtD0El48EpZdDXtafk5JiILjjbw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Michael Douglas\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Michael Douglas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Michael Douglas\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.17\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.17.nupkg.sha512",
     "C:\\Users\\Michael Douglas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
