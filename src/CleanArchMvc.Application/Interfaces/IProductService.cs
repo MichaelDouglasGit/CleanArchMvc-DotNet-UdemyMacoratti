@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CleanArchMvc.Application.Interfaces
 {
-    internal interface IProductService
+    public interface IProductService
     {
         Task<IEnumerable<ProductDTO>> GetProducts();
         Task<ProductDTO> GetById(int? id);
