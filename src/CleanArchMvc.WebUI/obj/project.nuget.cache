@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "G/XtOLUy2SajJoV9pyAVQ0G4tgoWnun7jpGdipKb5MwlTnZpTbV0tTghuD5Ox4Uu3K3J6aEccniSHHQfZsg4qw==",
+  "dgSpecHash": "Lv0b1vczIIdhmS3GcBHi4VCWadKNRF748VSrldTj9biSKivfiAmTNevbC4bBMazmleSF1NqPtnklmArl8Du3NQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Michael Douglas\\Documents\\Git\\CleanArchMvc-DotNet-UdemyMacoratti\\src\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Michael Douglas\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Michael Douglas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Michael Douglas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Michael Douglas\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Michael Douglas\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Michael Douglas\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.17\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.17.nupkg.sha512",
     "C:\\Users\\Michael Douglas\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.4\\microsoft.aspnetcore.mvc.razor.extensions.5.0.4.nupkg.sha512",
     "C:\\Users\\Michael Douglas\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.4\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.4.nupkg.sha512",
